@@ -1,5 +1,5 @@
 # 👋 Welcome to my Github, I'm Sanjana
-## A Passionate Data Analyst, Data Scientist, Data Engineer and ML Engineer
+## A Passionate Data Analyst/ Data Scientist/ Data Engineer / ML Engineer
  As a Data Analyst with 3 months of internship experience, I have gained practical skills in data manipulation, analysis, and visualization.
  
  My journey into coding and data science began when I decided to pursue a career in this field, driven by my passion for extracting meaningful insights from data.
